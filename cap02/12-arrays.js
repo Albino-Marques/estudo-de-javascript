@@ -57,4 +57,4 @@ console.log(typeof alunos); //Retornará Object
 //Para saber se está tratando realemente de arrays usa-se
 console.log(alunos instanceof Array); //Retornará true ou false;
 
-// MELHOR FORMA DE ADICIONAR DADOS NO ARRAY É ADICIONAR NO FIAL PARA NÃO USAR MUITA MEMÓRIA.
+// MELHOR FORMA DE ADICIONAR DADOS NO ARRAY É ADICIONAR NO FINAL PARA NÃO USAR MUITA MEMÓRIA.
